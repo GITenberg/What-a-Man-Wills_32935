@@ -24,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9729
     wikipedia: http://en.wikipedia.org/wiki/Mrs_George_de_Horne_Vaizey
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32935#What-a-Man-Wills
 gutenberg_issued: '2010-06-20'
 gutenberg_type: Text
 identifiers:
